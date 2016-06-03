@@ -1,0 +1,89 @@
+/* Fonts
+  font-family: 'Satisfy', cursive;
+  font-family: 'Open Sans', sans-serif;
+ */
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Header Styles */
+
+.header img{
+  width: 90px;
+}
+
+.header h1{
+  font-family: 'Satisfy', cursive;
+  color: #F48059;
+  position: relative;
+  top: 15px;
+}
+
+.header .navigation{
+  position: relative;
+  bottom: 25px;
+}
+
+/* Jumbo Styles */
+
+.jumbotron{
+  background: url("../img/hero.jpg");
+  min-height: 500px;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbotron h1{
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 27px;
+  font-weight: bold;
+}
+
+/* Feat/Serv Styles */
+
+.featured h2{
+  text-transform: uppercase;
+}
+
+.featured .item{
+  padding: 0 5px;
+}
+
+.featured .thumbnail{
+  background-color: #eee;
+}
+
+.services h2{
+  text-transform: uppercase;
+}
+
+.services ul a li{
+  text-transform: uppercase;
+  color: #61AEE6;
+}
+
+footer{
+  background-color: #222
+}
+
+footer .row{
+  margin: 0;
+}
+
+footer img{
+  max-width: 150px;
+}
+
+footer a{
+  color: #eee;
+}
+
+footer .border{
+  border-left: 1px solid #333;
+}
+
+footer .copyright{
+  color: #333;
+}
