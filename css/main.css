@@ -64,6 +64,8 @@ body{
   color: #61AEE6;
 }
 
+/* Footer Styles */
+
 footer{
   background-color: #222
 }
@@ -86,4 +88,10 @@ footer .border{
 
 footer .copyright{
   color: #333;
+}
+
+/* Contact Map Styles */
+
+.map{
+
 }
